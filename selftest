@@ -1,0 +1,2 @@
+.github/workflows/notify-selftest.yml
+.github/scripts/email_selftest.py
